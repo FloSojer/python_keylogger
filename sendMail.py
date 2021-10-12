@@ -1,0 +1,2 @@
+import smtpd as mail
+
